@@ -113,7 +113,7 @@ ssh -p 36407 root@ssh.intern-ai.org.cn -CNg -L 7860:127.0.0.1:7860 -o StrictHost
 ## 2.2 可选任务 2 
 
  使用 VSCODE 远程连接开发机并创建一个conda环境 
-![image-20451356](https://github.com/jiangxiaobaiii/InternLM-openNotebook/blob/main/%E5%85%A5%E9%97%A8%E5%B2%9B/%E7%AC%AC1%E5%85%B3Linux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png?raw=true)
+![image-20451356](https://github.com/jiangxiaobaiii/InternLM-openNotebook/blob/main/%E5%85%A5%E9%97%A8%E5%B2%9B/%E7%AC%AC1%E5%85%B3Linux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E5%88%9B%E5%BB%BA.png?raw=true)
 
 ## 2.3 可选任务 3  
 
