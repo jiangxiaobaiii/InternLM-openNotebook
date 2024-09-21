@@ -1,8 +1,7 @@
 # InternLM-openNotebook
 
-## 书生浦语大模型实战记录
+## 书生浦语大模型的个人实战记录
 
-训练营闯关记录
+![image2](https://github.com/jiangxiaobaiii/InternLM-openNotebook/blob/main/1.jpg?raw=true)
 
-![image](https://github.com/user-attachments/assets/93ff2412-777c-4619-812b-0134eb327cf3)
 
